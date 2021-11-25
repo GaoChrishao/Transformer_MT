@@ -1,0 +1,21 @@
+n_layers6  n_heads:8  d_model:512  d_ff:2048  batch_size:30  encoder_len:258  decoder_len:238
+Epoch:0001  batch:838  loss=6.253392  train_accu=12.025574  valid_accu=23.613747  lr=0.000146
+Epoch:0002  batch:838  loss=4.881472  train_accu=25.736279  valid_accu=35.974688  lr=0.000293
+Epoch:0003  batch:838  loss=4.223141  train_accu=33.781301  valid_accu=43.313512  lr=0.000439
+Epoch:0004  batch:838  loss=3.777790  train_accu=40.576951  valid_accu=48.849322  lr=0.000586
+Epoch:0005  batch:838  loss=3.453974  train_accu=45.825707  valid_accu=52.379472  lr=0.000683
+Epoch:0006  batch:838  loss=3.181739  train_accu=50.385976  valid_accu=55.157497  lr=0.000623
+Epoch:0007  batch:838  loss=2.962795  train_accu=54.182307  valid_accu=58.475676  lr=0.000577
+Epoch:0008  batch:838  loss=2.808110  train_accu=56.896291  valid_accu=59.814278  lr=0.000540
+Epoch:0009  batch:838  loss=2.674284  train_accu=59.330403  valid_accu=61.621197  lr=0.000509
+Epoch:0010  batch:838  loss=2.569488  train_accu=61.243865  valid_accu=62.886317  lr=0.000483
+Epoch:0011  batch:838  loss=2.483042  train_accu=62.888549  valid_accu=63.560595  lr=0.000460
+Epoch:0012  batch:838  loss=2.410432  train_accu=64.221808  valid_accu=63.804350  lr=0.000441
+Epoch:0013  batch:838  loss=2.339110  train_accu=65.625577  valid_accu=64.720654  lr=0.000423
+Epoch:0014  batch:838  loss=2.281194  train_accu=66.746659  valid_accu=65.087915  lr=0.000408
+Epoch:0015  batch:838  loss=2.227328  train_accu=67.817027  valid_accu=65.177016  lr=0.000394
+Epoch:0016  batch:838  loss=2.179242  train_accu=68.782181  valid_accu=65.432832  lr=0.000382
+Epoch:0017  batch:838  loss=2.135652  train_accu=69.687770  valid_accu=66.136799  lr=0.000370
+Epoch:0018  batch:838  loss=2.093802  train_accu=70.543491  valid_accu=66.065384  lr=0.000360
+Epoch:0019  batch:838  loss=2.054216  train_accu=71.395159  valid_accu=66.311719  lr=0.000350
+Epoch:0020  batch:838  loss=2.018851  train_accu=72.118315  valid_accu=66.317579  lr=0.000341

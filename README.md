@@ -7,6 +7,8 @@
 > 本项目为语言分析与机器翻译作业，
 >
 > 数据集：iwslt’14 de-en
+>
+> 训练模型及预处理后训练集下载地址：https://www.aliyundrive.com/s/jEqtJPU7RgL
 
 **运行环境:**
 

@@ -165,18 +165,8 @@ Epoch:0020  batch:1120  loss=2.138918  train_accu=68.877916  valid_accu=70.40932
 3. 运行测试
 
    ```sh
-python 测试.py
+   python 测试.py
    
-   cpu模式
-   载入已有字典
-   encoder_chars: 2004
-   decoder_chars: 2004
-   max_enc_seq_length: 363
-   max_dec_seq_length: 278
-   -----------------
-   0
-   0
-   -----------------
    原文：nun , das bringt ihnen keinen doktortitel in harvard , aber es ist viel interessanter als stamina zu zählen . 
    参考译文：now , that &apos;s not going to get you a ph.d. at harvard , but it &apos;s a lot more interesting than counting stamens . 
    
@@ -212,5 +202,4 @@ python 测试.py
    mean bleu：0.3303
    ```
    
-
 

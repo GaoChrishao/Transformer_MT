@@ -11,8 +11,12 @@ def process(type, output_path):
                     line = f.readline().strip()
 
 
+
+
+
 if __name__ == '__main__':
     # 将课程提供的数据集进行初步处理（去除@@符号，并合并train,valid,test）
     process("de", "../data/de.txt")
     process("en", "../data/en.txt")
+
     print("处理完成！")

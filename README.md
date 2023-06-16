@@ -8,7 +8,7 @@
 >
 > 数据集：iwslt’14 de-en
 >
-> 训练模型及预处理后训练集下载地址：https://www.aliyundrive.com/s/jEqtJPU7RgL
+> 训练模型及预处理后训练集下载地址：https://www.aliyundrive.com/s/d9PJMWNQh8Z
 
 **运行环境:**
 
